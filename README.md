@@ -42,7 +42,7 @@ Repositorio de la iniciativa G4A (guides for all), donde les brindamos rutas de 
 
 
 
-- <h3 id="que-son-las-soft-skills">¿Qué son las soft skills?</h3>
+- <h3 id="que-son-las-soft-skills">1. ¿Qué son las soft skills?</h3>
 
 *El término hace referencia a las competencias sociales que solo se adquieren en la vida diaria y que permiten a las personas integrarse con éxito en los ambientes laborales. Las empresas cada vez las demandan más.*
 
@@ -56,7 +56,7 @@ Video de Alura latam sobre las habilidades blandas
 Alura cuenta con una formación enfocada en mejorar todas estas habilidades, puedes acceder a sus increibles cursos.
 
 
-- <h3 id="organizacion-de-tareas">Organización de tareas</h3>
+- <h3 id="organizacion-de-tareas">2. Organización de tareas</h3>                                                                          <a href="#SF">Volver al inicio</a>
 El tener todo organizado y con tareas definidas te hará una persona mas productiva tanto como si eres estudiante, trabajador de algun area o creador de contenido para alguna plataforma o si quieres organizarte en la creación de algun proyecto. La app (Notion) que te voy a presentar hoy te brinda demasiadas herramientas para esto.
 
 Con este video conocerás la aplicación, aprenderás a usar platillas para organizarte de manera mas fácil, hacer calendario para planificarte semanalmente y hasta una ToDo list para tener tus tareas del día organizadas: 
@@ -67,7 +67,7 @@ Con este video conocerás la aplicación, aprenderás a usar platillas para orga
 [![Alt text](https://img.youtube.com/vi/IAb-OVJoywM/0.jpg)](https://www.youtube.com/watch?v=IAb-OVJoywM)
 
 
-- <h3 id="metodos-de-enfoque-efectivos">Metodos de enfoque efectivos</h3>
+- <h3 id="metodos-de-enfoque-efectivos">3. Metodos de enfoque efectivos</h3>                                                               <a href="#SF">Volver al inicio</a>
 Ya aprendiste a organizar tus tareas, pero ahora te vengo a presentar claves y metodos para que al trabajar en que tarea lo hagas de manera efectiva, sin distracciones ni errores en el proceso.
 
 Este articulo nos explica como priorizar tareas, clasificar tareas, evitar multitasking, como gestionar grandes tareas y mas: https://ignaciomartineza.com/liderazgo/enfocarse-en-el-trabajo/
@@ -91,7 +91,7 @@ Este video nos enseña los problemas y las veces en que este metodo no es tan ef
 hay muchas mas tecnicas para concentrarse en el estudio y trabajo, te dejo de tarea buscar mas y usar la que mas se te ajuste a ti,¡animos!
 
 
-- <h3 id="metodologias-de-trabajo.agil">Metodologias de trabajo agil</h3>
+- <h3 id="metodologia-de-trabajo-agil"> 4. Metodologias de trabajo agil</h3>                                                                 <a href="#SF">Volver al inicio</a>
 'Agile' es mucho más que una metodología para el desarrollo de proyectos que precisan de rapidez y flexibilidad, es una filosofía que supone una forma distinta de trabajar y de organizarse. De tal forma que cada proyecto se 'trocea' en pequeñas partes que tienen que completarse y entregarse en pocas semanas.
 
 
@@ -107,7 +107,7 @@ Otra metodologia agil es kanban, La metodología Kanban es un sistema de producc
 
 [![Alt text](https://img.youtube.com/vi/1KwoFHRO6us/0.jpg)](https://www.youtube.com/watch?v=1KwoFHRO6us)
 
-- <h3 id="liderazgo">Liderazgo en equipos de trabajo</h3>
+- <h3 id="liderazgo">Liderazgo en equipos de trabajo</h3>                                                                               <a href="#SF">Volver al inicio</a>
 En este blog conocerás las 7 cualidades que debe tener un lider:
 
 https://www.michaelpage.es/advice/empresas/consejos-de-iniciacion-del-personal/cualidades-de-liderazgo-mas-importantes
