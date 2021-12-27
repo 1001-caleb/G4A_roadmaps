@@ -114,4 +114,4 @@ https://www.michaelpage.es/advice/empresas/consejos-de-iniciacion-del-personal/c
 
 `Espero estos recursos te hayan ayudado a conocer la importancia de las habilidades blandas, queda de tu parte implementarlas ya que solo con saber el concepto no hacemos nada.`
 
-<a href="SF">Volver al inicio</a>
+<a href="#SF">Volver al inicio</a>
