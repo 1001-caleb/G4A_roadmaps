@@ -36,7 +36,7 @@ Repositorio de la iniciativa G4A (guides for all), donde les brindamos rutas de 
 
 1. ¿Qué son las soft skills?
 2. Organización de tareas.
-2. Métodos de enfoque efectivos,
+3. Métodos de enfoque efectivos,
 4. Trabajo en equipo.
 5. Liderazgo.
 6. Metodologia de trabajo agil.
@@ -65,3 +65,26 @@ Con este video conocerás la aplicación, aprenderás a usar platillas para orga
 Con este video conocerás la aplicación, aprenderás a usar platillas para organizarte de manera mas fácil, hacer calendario para planificarte semanalmente y hasta una ToDo list para tener tus tareas del día organizadas: 
 
 [![Alt text](https://img.youtube.com/vi/IAb-OVJoywM/0.jpg)](https://www.youtube.com/watch?v=IAb-OVJoywM)
+
+
+- <h3>Metodos de enfoque efectivos</h3>
+Ya aprendiste a organizar tus tareas, pero ahora te vengo a presentar claves y metodos para que al trabajar en que tarea lo hagas de manera efectiva, sin distracciones ni errores en el proceso.
+
+Este articulo nos explica como priorizar tareas, clasificar tareas, evitar multitasking, como gestionar grandes tareas y mas: https://ignaciomartineza.com/liderazgo/enfocarse-en-el-trabajo/
+
+Mira este video con 4 consejos para el enfoque:
+
+[![Alt text](https://img.youtube.com/vi/-P50XuOun3U/0.jpg)](https://www.youtube.com/watch?v=-P50XuOun3U)
+
+Talvez hayas escuchado sobre el metodo pomodoro, aprende sobre este y aplicalo tanto a la hora de trabajar como de estudiar, te aseguro te ayudará a cumplir tus metas sin saturarte y aprenderás de una forma distinta.
+
+[![Alt text](https://img.youtube.com/vi/Q2I96FgZUHA/0.jpg)](https://www.youtube.com/watch?v=Q2I96FgZUHA)
+
+No todos somos iguales, asi que si esta tecnica no te funciona puedes buscar alternativas o ajustar este tipo de tecnicas a tu gusto o necesidad.
+
+Este video nos enseña los problemas y las veces en que este metodo no es tan efectivo y te recomienda otra mas (Presupuesto de descanso)
+
+[![Alt text](https://img.youtube.com/vi/VTon5ihf-kw/0.jpg)](https://www.youtube.com/watch?v=VTon5ihf-kw)
+
+
+hay muchas mas tecnicas para concentrarse en el estudio y trabajo, te dejo de tarea buscar mas y usar la que mas se te ajuste a ti,¡animos!
