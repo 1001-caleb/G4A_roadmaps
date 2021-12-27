@@ -49,7 +49,8 @@ Repositorio de la iniciativa G4A (guides for all), donde les brindamos rutas de 
 [https://www.bbva.com/es/soft-skills-sirven/](https://www.bbva.com/es/soft-skills-sirven/)
 
 Video de Alura latam sobre las habilidades blandas
-https://youtu.be/vhwspfvI52k
+
+[![Alt text](https://img.youtube.com/vi/vhwspfvI52k/0.jpg)](https://www.youtube.com/watch?v=vhwspfvI52k)
 
 
 Alura cuenta con una formación enfocada en mejorar todas estas habilidades, puedes acceder a sus increibles cursos.
@@ -58,7 +59,9 @@ Alura cuenta con una formación enfocada en mejorar todas estas habilidades, pue
 - <h3>Organización de tareas</h3>
 El tener todo organizado y con tareas definidas te hará una persona mas productiva tanto como si eres estudiante, trabajador de algun area o creador de contenido para alguna plataforma o si quieres organizarte en la creación de algun proyecto. La app (Notion) que te voy a presentar hoy te brinda demasiadas herramientas para esto.
 
-Con este video conocerás la aplicación, aprenderás a usar platillas para organizarte de manera mas fácil, hacer calendario para planificarte semanalmente y hasta una ToDo list para tener tus tareas del día organizadas: https://youtu.be/fiSuzG09Vjk?list=PL2xr88TgHcG7AHQjlgbeERvxwTIIZ9knm
+Con este video conocerás la aplicación, aprenderás a usar platillas para organizarte de manera mas fácil, hacer calendario para planificarte semanalmente y hasta una ToDo list para tener tus tareas del día organizadas: 
+[![Alt text](https://img.youtube.com/vi/fiSuzG09Vjk/0.jpg)](https://www.youtube.com/watch?v=fiSuzG09Vjk)
 
-Con este video conocerás la aplicación, aprenderás a usar platillas para organizarte de manera mas fácil, hacer calendario para planificarte semanalmente y hasta una ToDo list para tener tus tareas del día organizadas: https://youtu.be/IAb-OVJoywM
+Con este video conocerás la aplicación, aprenderás a usar platillas para organizarte de manera mas fácil, hacer calendario para planificarte semanalmente y hasta una ToDo list para tener tus tareas del día organizadas: 
 
+[![Alt text](https://img.youtube.com/vi/IAb-OVJoywM/0.jpg)](https://www.youtube.com/watch?v=IAb-OVJoywM)
