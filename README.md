@@ -15,7 +15,7 @@ Repositorio de la iniciativa G4A (guides for all), donde les brindamos rutas de 
 
 <h2 id="indice">Indice</h2>
 
-1. <a href="#uno">Soft skills</a>
+1. <a href="#SF">Soft skills</a>
 2. <a href="#uno">Fundamentos de programación</a>
 3. <a href="#uno">Linux/GNU</a>
 4. <a href="#uno">UX/UI desing</a>
@@ -31,4 +31,34 @@ Repositorio de la iniciativa G4A (guides for all), donde les brindamos rutas de 
 14. <a href="#uno">Games</a>
 
 
+<a href="#indice"><h2 id="SF">Soft skills</h2></a>
+<p>Las habilidades blandas son importantes dentro del mundo de las TI, desde aprender a trabajar en equipo hasta tu capacidad de innovar, trabaja en esto y mejora tus comeptencias.</p>
+
+1. ¿Qué son las soft skills?
+2. Organización de tareas.
+2. Métodos de enfoque efectivos,
+4. Trabajo en equipo.
+5. Liderazgo.
+6. Metodologia de trabajo agil.
+7. Metodologia Scrum.
+
+- <h3>¿Qué son las soft skills?</h3>
+
+*El término hace referencia a las competencias sociales que solo se adquieren en la vida diaria y que permiten a las personas integrarse con éxito en los ambientes laborales. Las empresas cada vez las demandan más.*
+
+[https://www.bbva.com/es/soft-skills-sirven/](https://www.bbva.com/es/soft-skills-sirven/)
+
+Video de Alura latam sobre las habilidades blandas
+https://youtu.be/vhwspfvI52k
+
+
+Alura cuenta con una formación enfocada en mejorar todas estas habilidades, puedes acceder a sus increibles cursos.
+
+
+- <h3>Organización de tareas</h3>
+El tener todo organizado y con tareas definidas te hará una persona mas productiva tanto como si eres estudiante, trabajador de algun area o creador de contenido para alguna plataforma o si quieres organizarte en la creación de algun proyecto. La app (Notion) que te voy a presentar hoy te brinda demasiadas herramientas para esto.
+
+Con este video conocerás la aplicación, aprenderás a usar platillas para organizarte de manera mas fácil, hacer calendario para planificarte semanalmente y hasta una ToDo list para tener tus tareas del día organizadas: https://youtu.be/fiSuzG09Vjk?list=PL2xr88TgHcG7AHQjlgbeERvxwTIIZ9knm
+
+Con este video conocerás la aplicación, aprenderás a usar platillas para organizarte de manera mas fácil, hacer calendario para planificarte semanalmente y hasta una ToDo list para tener tus tareas del día organizadas: https://youtu.be/IAb-OVJoywM
 
