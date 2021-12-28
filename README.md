@@ -13,10 +13,18 @@ Repositorio de la iniciativa G4A (guides for all), donde les brindamos rutas de 
 ![comienza-ya](https://user-images.githubusercontent.com/71718050/147476946-fac644e1-c70b-4a90-aefa-967c0c86ae47.png)
 
 
+## Consejos para comenzar
+
+- **Tomate enserio tu aprendizaje**, dedica al menos 3 horas de tu día a aprender algo nuevo, toma apuntes como si fueran tus clases del colegio, esto te ayudará.
+- **Se autodidacta**, a pesar de los recursos que te brindamos habrán temas en los cuales te sentirás un poco flojo, investiga por ti mismo y no dejes vacíos en tu aprendizaje.
+- **Pon en practica lo aprendido,** con simplemente ver los cursos no aprenderás nada, por esta razón siempre les recomendamos recursos para practicar y hacer proyectos.
+- **Apóyate con alguien mas**, si necesitas ayuda sobre algo solo pregunta, para eso está nuestra comunidad de Discord en donde te podremos brindar **mentorías.**
+
+
 <h2 id="indice">Indice</h2>
 
 1. <a href="#SF">Soft skills</a>
-2. <a href="#uno">Fundamentos de programación</a>
+2. <a href="#FDP">Fundamentos de programación</a>
 3. <a href="#uno">Linux/GNU</a>
 4. <a href="#uno">UX/UI desing</a>
 5. <a href="#uno">Git/Github</a>
@@ -115,3 +123,102 @@ https://www.michaelpage.es/advice/empresas/consejos-de-iniciacion-del-personal/c
 `Espero estos recursos te hayan ayudado a conocer la importancia de las habilidades blandas, queda de tu parte implementarlas ya que solo con saber el concepto no hacemos nada.`
 
 <a href="#SF">Volver al inicio</a>
+
+
+<a href="#indice"><h2 id="FDP">Fundamentos de programación</h2></a>
+
+
+TEMARIO:
+
+- Introducción a la programación.
+- Perfiles de un programador (ramas).
+- **Cursos gratis sobre fundamentos de programación**
+- **Cursos de pago sobre fundamentos de programación.**
+
+*Cada curso tiene un temario diferente o priorizan algunos temas en vez de otros, los temas mencionados acá abajo son los mas comunes así que si alguno no te queda claro podrás buscar por ti mismo e informarte sobre estos, recuerda que parte de aprender es también ser autodidacta*
+
+- Pensamiento lógico.
+- Seudocódigo.
+- Algoritmos.
+- Variables y constantes.
+- Tipos de datos.
+- Arreglos.
+- Condicionales.
+- Funciones.
+- Recursividad.
+- Algoritmos de ordenamiento.
+- Diagramas de flujo.
+- **Practica lo aprendido.**
+
+## Introducción a la programación
+
+---
+
+Muchos tenemos un concepto sobre la programación pero quizás sea un concepto vago, en este video se trata de explicar de forma mas concisa que es la programación y con  ejemplos prácticos.
+
+[![Alt text](https://img.youtube.com/vi/qpVbdkeKPFw/0.jpg)](https://www.youtube.com/watch?v=qpVbdkeKPFw)
+
+
+## Perfiles o ramas de la programación
+
+Sabiendo ya que es la programación ahora nos adentraremos mucho mas y conoceremos los distintos perfiles en el área de la programación.
+
+
+[![Alt text](https://img.youtube.com/vi/QTDPOxnfRaI/0.jpg)](https://www.youtube.com/watch?v=QTDPOxnfRaI)
+
+## Cursos gratis sobre FDP
+
+En este curso aprenderás desde lo mas básico, usando la herramienta PSeint, y seudocódigo, no trabajarás aún con ningún lenguaje de programación.
+
+[✅ Curso de Fundamentos de Programación 2020](https://www.youtube.com/playlist?list=PLt1J5u9LpM59b4WzNFhhuvhwZMleg8agD)
+
+Este es un curso mas básico, pero aprenderás los conceptos con el lenguaje de programación Python, que para muchos es uno de los recomendados si estas empezando en la programación.
+
+[Aprende a Programar con Python🐍 - (PRINCIPIANTES)](https://www.youtube.com/playlist?list=PLkVw1CMIKNGixke9IqrmrFISRg2CPsRN4)
+
+El siguiente curso es en la plataforma de Platzi, completamente gratis y además cuentas con certificado al finalizarlo.
+
+[](https://platzi.com/clases/programacion-basica/)
+
+## Cursos de paga sobre FDP
+
+Esta es una alternativa a los cursos gratis, son mas extensos, mas intensidad y mas profundización y con la ventaja del certificado de finalización.
+
+
+Recomiendo este de la plataforma Udemy, alrededor de 30 horas de clase, les dejo el temario a continuación.
+
+[](https://www.udemy.com/course/fundamentos-de-programacion-aprende-a-programar-desde-cero/)
+
+![Untitled1](https://user-images.githubusercontent.com/71718050/147576568-d7d165a5-7c6b-408d-9dab-aa3a03f1dcf4.png)
+
+***Cabe recalcar que la plataforma de udemy diariamente deja cursos completamente gratis, para enterarte de esto simplemente debes estar al pendiente de nuestro servidor de Discord en donde publicamos cada uno de estos.***
+
+Este otro curso es de la plataforma Alura en el cual aprenderás todos los conceptos básicos con Javascript, uno de los lenguajes mas populares de los últimos tiempos.
+
+[Curso Online Lógica de programación parte 2: Conceptos primordiales | Alura](https://www.aluracursos.com/curso-online-logica-de-programacion-conceptos-primordiales)
+
+
+![Untitled2](https://user-images.githubusercontent.com/71718050/147576600-5052185f-bc9f-4e92-80ae-c929acee08ff.png)
+
+## Practica lo aprendido
+
+---
+
+Te reto a completar los siguientes ejercicios, si es posible realízalos simplemente con seudocódigo y usando la herramienta de PSeint, si eres un poco mas atrevido lo podrías realizar igualmente con Python o JS, con el lenguaje que mas te acomodes. 
+
+1. Crea un diagrama de flujo en donde pidas dos numero y devuelvas la suma de estos dos.
+2. Realiza un seudocódigo en donde puedas calcular el área de un triangulo (la formula para calcular el área de un triangulo en base por altura entre 2, **b*a/2**). 
+3. Realiza un seudocódigo en donde preguntes la edad de un usuario y si es mayor o igual a 18 lo dejes pasar y si no (si es menor de edad) le niegas el acceso.
+4. Realiza un seudocódigo en donde pidas 3 notas al usuario y al final calcules su promedio.
+5. Realiza un seudocódigo en donde pidas ingresar cierto numero de segundos  y que posteriormente se devuelva en minutos.
+6. Realiza un seudocódigo en donde pidas el sueldo a 3 empleados y a estos les apliques un aumento del 10%, 15% y 20% respectivamente.
+7. Realiza un seudocódigo en donde ingresemos un numero y el programa nos diga si es un numero positivo o negativo.
+8. Realiza un seudocódigo en donde introduzcamos un numero por teclado y nos diga si es par o impar.
+9. Realiza un seudocódigo que imprima los 100 primeros números.
+10. Realiza un seudocódigo en donde nos imprima todos los números pares que hay entre el 0 y el 100.
+
+---
+
+Hasta aquí la ruta de aprendizaje de Fundamentos de programación, espero hayas realizado todos los ejercicios, si has tenido dificultad en alguno de estos recuerda pedir ayuda en nuestra comunidad de Discord.
+
+#AprendizajeGuiado
