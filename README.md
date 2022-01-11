@@ -4,22 +4,15 @@
 
 Repositorio de la iniciativa G4A (guides for all), donde les brindamos rutas de aprendizajes efectivas a aquellas personas que no saben por donde iniciar ni que estudiar para enfocarse en TI.
 
+| REDES Y COMUNIDAD | 🚀CEO: Caleb Parra (ParraCode) |
+| --- | --- |
+| 👨🏾‍💻Comunidad de Discord:  | https://discord.io/Guides4A |
+| 🐦Twitter: G4A | https://twitter.com/Guides4A |
+| 🐦Twitter: ParraCode | https://twitter.com/ParraCode_ |
+| 📷Instagram: | https://www.instagram.com/parracode_/?hl=es-la |
+| 🌐Web: | coming soon... |
+| 📽️Youtube | coming soon... |
 
-🚀CEO: Caleb Parra (ParraCode)
-
-👨🏾‍💻Comunidad de Discord: 
-
-[Discord](https://discord.io/Guides4A)
-
-🐦Twitter:
-
-[Twitter de G4A](https://twitter.com/Guides4A)
-
-[Twitter de ParrCode](https://twitter.com/ParraCode_)
-
-🌐Pagina web: coming soon...
-
-🎥Canal de Youtube: coming soon...
 
 
                           Puedes visitar nuestro Notion page, por si no estas familiarizado con github. 
