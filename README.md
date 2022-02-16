@@ -163,7 +163,7 @@ TEMARIO:
 - Diagramas de flujo.
 - **Practica lo aprendido.**
 
-## Introducción a la programación
+## Introducción a la programación.
 
 ---
 
