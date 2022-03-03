@@ -151,7 +151,6 @@ TEMARIO:
 - Introducción a la programación.
 - Perfiles de un programador (ramas).
 - **Cursos gratis sobre fundamentos de programación**
-- **Cursos de pago sobre fundamentos de programación.**
 
 *Cada curso tiene un temario diferente o priorizan algunos temas en vez de otros, los temas mencionados acá abajo son los mas comunes así que si alguno no te queda claro podrás buscar por ti mismo e informarte sobre estos, recuerda que parte de aprender es también ser autodidacta*
 
@@ -168,55 +167,40 @@ TEMARIO:
 - Diagramas de flujo.
 - **Practica lo aprendido.**
 
-## Introducción a la programación.
+## Introducción a la programación
 
 ---
 
 Muchos tenemos un concepto sobre la programación pero quizás sea un concepto vago, en este video se trata de explicar de forma mas concisa que es la programación y con  ejemplos prácticos.
 
-[![Alt text](https://img.youtube.com/vi/qpVbdkeKPFw/0.jpg)](https://www.youtube.com/watch?v=qpVbdkeKPFw)
-
+[https://www.youtube.com/watch?v=qpVbdkeKPFw](https://www.youtube.com/watch?v=qpVbdkeKPFw)
 
 ## Perfiles o ramas de la programación
 
 Sabiendo ya que es la programación ahora nos adentraremos mucho mas y conoceremos los distintos perfiles en el área de la programación.
 
-
-[![Alt text](https://img.youtube.com/vi/QTDPOxnfRaI/0.jpg)](https://www.youtube.com/watch?v=QTDPOxnfRaI)
+[https://youtu.be/QTDPOxnfRaI](https://youtu.be/QTDPOxnfRaI)
 
 ## Cursos gratis sobre FDP
 
-En este curso aprenderás desde lo mas básico, usando la herramienta PSeint, y seudocódigo, no trabajarás aún con ningún lenguaje de programación.
+> En este curso aprenderás desde lo mas básico, usando la herramienta PSeint, y seudocódigo, no trabajarás aún con ningún lenguaje de programación.
+> 
 
 [✅ Curso de Fundamentos de Programación 2020](https://www.youtube.com/playlist?list=PLt1J5u9LpM59b4WzNFhhuvhwZMleg8agD)
 
-Este es un curso mas básico, pero aprenderás los conceptos con el lenguaje de programación Python, que para muchos es uno de los recomendados si estas empezando en la programación.
+> Este es un curso mas básico, pero aprenderás los conceptos con el lenguaje de programación Python, que para muchos es uno de los recomendados si estas empezando en la programación.
+> 
 
 [Aprende a Programar con Python🐍 - (PRINCIPIANTES)](https://www.youtube.com/playlist?list=PLkVw1CMIKNGixke9IqrmrFISRg2CPsRN4)
 
-El siguiente curso es en la plataforma de Platzi, completamente gratis y además cuentas con certificado al finalizarlo.
+> El siguiente curso es en la plataforma de Platzi, completamente gratis y además cuentas con certificado al finalizarlo.
+> 
 
 [](https://platzi.com/clases/programacion-basica/)
 
-## Cursos de paga sobre FDP
+---
 
-Esta es una alternativa a los cursos gratis, son mas extensos, mas intensidad y mas profundización y con la ventaja del certificado de finalización.
-
-
-Recomiendo este de la plataforma Udemy, alrededor de 30 horas de clase, les dejo el temario a continuación.
-
-[](https://www.udemy.com/course/fundamentos-de-programacion-aprende-a-programar-desde-cero/)
-
-![Untitled1](https://user-images.githubusercontent.com/71718050/147576568-d7d165a5-7c6b-408d-9dab-aa3a03f1dcf4.png)
-
-***Cabe recalcar que la plataforma de udemy diariamente deja cursos completamente gratis, para enterarte de esto simplemente debes estar al pendiente de nuestro servidor de Discord en donde publicamos cada uno de estos.***
-
-Este otro curso es de la plataforma Alura en el cual aprenderás todos los conceptos básicos con Javascript, uno de los lenguajes mas populares de los últimos tiempos.
-
-[Curso Online Lógica de programación parte 2: Conceptos primordiales | Alura](https://www.aluracursos.com/curso-online-logica-de-programacion-conceptos-primordiales)
-
-
-![Untitled2](https://user-images.githubusercontent.com/71718050/147576600-5052185f-bc9f-4e92-80ae-c929acee08ff.png)
+## RECURSOS
 
 ## Practica lo aprendido
 
