@@ -1,17 +1,22 @@
 
 # G4A RoadMaps/(Rutas de aprendizaje)
-   ![G4A](https://user-images.githubusercontent.com/71718050/147476463-5cc43815-01d0-4283-a2cb-9de5fdfc4462.png)
+   
+![1646336381311](https://user-images.githubusercontent.com/71718050/156641952-e35858bc-d3a7-4133-a58b-9896d0b22602.png)
 
-Repositorio de la iniciativa G4A (guides for all), donde les brindamos rutas de aprendizajes efectivas a aquellas personas que no saben por donde iniciar ni que estudiar para enfocarse en TI.
+Iniciativa G4A (Guides for all), donde les brindamos rutas de aprendizajes efectivas y recursos para aprender lo que quieran e iniciarte en este mundo de las TI.
+
+---
+
+
 
 | REDES Y COMUNIDAD | 🚀CEO: Caleb Parra (ParraCode) |
 | --- | --- |
 | 👨🏾‍💻Comunidad de Discord:  | https://discord.io/Guides4A |
 | 🐦Twitter: G4A | https://twitter.com/Guides4A |
-| 🐦Twitter: ParraCode | https://twitter.com/ParraCode_ |
-| 📷Instagram: | https://www.instagram.com/parracode_/?hl=es-la |
 | 🌐Web: | coming soon... |
 | 📽️Youtube | coming soon... |
+| 🐦Twitter: ParraCode | https://twitter.com/ParraCode_ |
+| 📷Instagram: ParraCode | https://www.instagram.com/parracode_/?hl=es-la |
 
 
 
@@ -23,7 +28,7 @@ Repositorio de la iniciativa G4A (guides for all), donde les brindamos rutas de 
 
    
    
-![comienza-ya](https://user-images.githubusercontent.com/71718050/147476946-fac644e1-c70b-4a90-aefa-967c0c86ae47.png)
+
 
 
 ## Consejos para comenzar
